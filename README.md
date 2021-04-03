@@ -1,4 +1,4 @@
-# Hi I'm Thawatchai, Welcome to my Github profile 👋
+# 👋 Hi I'm Thawatchai, Welcome to my Github profile 💻
 
 
 <!--
